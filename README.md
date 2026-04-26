@@ -23,11 +23,11 @@
 | HTML / CSS | Intermediate – Advanced |
 | JavaScript | Intermediate – Advanced |
 | Python | Intermediate |
-| TypeScript | Learning |
-| C | Learning |
-| C++ | Learning |
-| C# | Learning |
-| Java | Learning |
+| TypeScript | Basic – Learning |
+| C | Basic – Learning |
+| C++ | Basic – Learning |
+| C# | Basic – Learning |
+| Java | Basic – Learning |
 
 ### Artificial Intelligence & Machine Learning
 
